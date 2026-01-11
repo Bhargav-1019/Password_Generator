@@ -23,6 +23,6 @@ It allows users to generate strong random passwords with customizable length, nu
 - React (useState, useEffect, useCallback, useRef)
 - JavaScript (ES6)
 - Tailwind CSS
-- Vite / CRA (depending on setup)
+- Vite
 
 ---
